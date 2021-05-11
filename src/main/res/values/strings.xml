@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Whats_For_Dinner</string>
+    <string name="ok_label">OK</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+
+    <string-array name="take_out">
+        <item>McDonalds</item>
+        <item>Burger King</item>
+        <item>Arbys</item>
+        <item>White Castle</item>
+        <item>Taco Bell</item>
+        <item>KFC</item>
+    </string-array>
+
+    <string-array name="dine_in">
+        <item>East End Grill</item>
+        <item>Red Lobster</item>
+        <item>Texas Roadhouse</item>
+        <item>Longhron</item>
+        <item>Sgt Prestons</item>
+        <item>KFC</item>
+    </string-array>
+
+    <string-array name="cook_dinner">
+        <item>Steak</item>
+        <item>Breakfast for Dinner</item>
+        <item>Spaghetti</item>
+        <item>Grilled Chicken</item>
+        <item>Smoked Salmon</item>
+        <item>Shepards Pie</item>
+    </string-array>
+</resources>
